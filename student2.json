@@ -1,0 +1,10 @@
+{
+  "name": "Raj Aryan - Campus ID",
+  "description": "Verified Student ID - 2026 Batch",
+  "image": "ipfs://bafkreib4orqolmiwlnmzmobmmv54mexl4ly4bmefh3cumjfdj7yg37hsie",
+  "properties": {
+    "roll_number": "CS2026-01",
+    "department": "Computer Science",
+    "university": "Symbiosis University"
+  }
+}
